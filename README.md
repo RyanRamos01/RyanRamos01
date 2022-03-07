@@ -1,4 +1,4 @@
-### Estudante do curso de Ciência da Computação da UTFPR da cidade de Campo Mourão, atualmente no 5º período.
+### Estudante do curso de Ciência da Computação da UTFPR da cidade de Campo Mourão, atualmente no 5º período.⚡
 
 <!--
 **RyanRamos01/RyanRamos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
